@@ -316,8 +316,8 @@ button {
 .taital_main::after {
     display: block;
     background-image: url(../images/banner-bg.png);
-    height: 573px;
-    width: 26%;
+    height: 575px;
+    width: 28%;
     content: "";
     position: absolute;
     top: 0;
@@ -597,7 +597,7 @@ button {
     color: #ffffff;
     position: absolute;
     padding-top: 20px;
-    padding-left: 15px;
+    padding-left: 4px;
     font-family: Apple Chancery;
 }
 
@@ -605,24 +605,24 @@ button {
     width: 100%;
     float: left;
     background-color: rgba(50,49,49,0.9);
-    padding: 35px 0px;
+    padding: 12px 0px;
     position: relative;
-    top: -80px;
+    top: -50px;
 }
 
 .home_taital_main:hover{
-    background-color: rgba(203,174,19,0.9);
+    background-color: rgba(233, 10, 10,0.9);
 
 }
 
 .home_taital_main.active {
-    background-color: rgba(203,174,19,0.9);
+    background-color: rgba(233, 10, 10,0.9);
 }
 
 .home_text{
      width: 100%;
      float: left;
-     font-size: 34px;
+     font-size: 1.8rem;
      color: #fdfdfc;
      text-align: center;
 }
@@ -630,7 +630,7 @@ button {
 .price_text {
     width: 100%;
     float: left;
-    font-size: 34px;
+    font-size: 2rem;
     color: #fff;
     text-align: center;
     font-weight: 600;

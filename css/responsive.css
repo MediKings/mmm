@@ -161,7 +161,7 @@ width: 30%;
 .properties_section_2 { width: 100%; text-align: center; }
 .waye_main { width: 90%; margin-left: 0px; }
 .best_text { padding-top: 40px; }
-.search_section { width: 100%; float: left; background-color: #cba806; }
+.search_section { width: 100%; float: left; background-color: rgb(233, 10, 10); }
 .search_bt_main { margin-left: 0px; }
 .search_bt a { width: 90%; }
 .quick_text { padding-left: 0px; }
@@ -232,7 +232,7 @@ width: 30%;
 .way_main_text { display: none; }
 .search_bt_main { margin-left: 0px; }
 .carousel-indicators li { display: none; }
-.search_section { width: 100%; float: left; background-color: #cba806; }
+.search_section { width: 100%; float: left; background-color: rgb(233, 10, 10); }
 .contract_text { width: 100%; margin-bottom: 20px; float: right; }
 .search_bt a { width: 100%; float: left; }
 .Contrary_taital { font-size: 16px; }
@@ -323,7 +323,7 @@ padding: 126px 40px;
 .way_main_text { display: none; }
 .search_bt_main { margin-left: 0px; }
 .carousel-indicators li { display: none; }
-.search_section { width: 100%; float: left; background-color: #cba806; }
+.search_section { width: 100%; float: left; background-color: rgb(233, 10, 10); }
 .contract_text { width: 100%; margin-bottom: 20px; float: right; }
 .search_bt a { width: 100%; float: left; }
 .Contrary_taital { font-size: 16px; }
@@ -448,7 +448,7 @@ ul.link li {
 .search_section {
     width: 100%;
     float: left;
-    background-color: #cba806;
+    background-color: rgb(233, 10, 10);
 }
 .contract_text { width: 75%; margin-bottom: 20px; float: right; }
 .search_bt a { width: 35%; float: right; }

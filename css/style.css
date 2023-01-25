@@ -329,8 +329,10 @@ button {
     background-image: url(../images/banner.png);
     background-size: cover;
     background-position: center;
-     width: 100%;
-     float: left;
+    width: 100%;
+    float: left;
+    min-height: 300px;
+    object-fit: cover;
 }
 
 .taital_main {
@@ -343,6 +345,7 @@ button {
     z-index: 0;
     transform: skew(-20deg);
     left: -128px;
+    min-height: 300px;
 }
 
 .banner_taital {

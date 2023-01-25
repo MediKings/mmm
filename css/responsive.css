@@ -436,7 +436,7 @@ ul.link li {
 .menu_text { padding-top: 0px; height: 0;}
 .image_1 { display: none; }
 .taital_main { padding-top: 50px; padding-bottom: 0px; left: -40px; width: 60%; }
-.banner_taital { font-size: 30px; width: 100%;}
+.banner_taital { font-size: 25px; width: 100%;}
 .taital_main::after { display: none; }
 .btn_main { display: none; }
 .taital_main > * { left: 50px; }
